@@ -1,3 +1,22 @@
+# Intro
+"The rapid increase in usage of speech processing algorithms in multi-media and
+ telecommunications applications raises the need for speech quality evaluation".
+ In the realm of audio quality research, researchers aim to understand the perceived
+ quality of audio applications under various conditions. "These conditions
+ encompass a wide range of factors, like delay (latency), packet loss, packet delay
+ variation (jitter), echo, and distortion introduced by codec". To simulate these
+ factors, researchers often employ a system called degradation conditions, which
+ modify speech signals to represent specific system configurations and influencing
+ variables. At the Quality and Usability Lab at Technische Universität Berlin, they
+ have a specialized tool designed to produce signals following the guidelines
+ established by the International Telecommunication Union (ITU-T). As the process
+ of creating these conditional tables is a very important part of the research, it has
+ been time-consuming and complex for the new researchers and students. One other
+ reason is that human errors in defining degradation conditions can lead to incorrect
+ results and compromise research quality. This proposal outlines the development
+ of an intuitive front-end for the MATLAB Speech Database Tool, with the aim of
+ enhancing user experience and accessibility in audio and speech research.
+ 
 # Intuitive User Interface for MATLAB Condition Table Creation
 
 # Clone the repository
